@@ -1,0 +1,23 @@
+Script started on Mon Mar 22 12:05:09 2021
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4[0m[27m[24m[Jhashimn4@Hashims-MBP ~ % [K[?2004hccd doci uments/repometa[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4/documents/repometa[0m[27m[24m[Jhashimn4@Hashims-MBP repometa % [K[?2004hggit init[?2004l
+Initialized empty Git repository in /Users/hashimn4/Documents/RepoMeta/.git/
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4/documents/repometa[0m[27m[24m[Jhashimn4@Hashims-MBP repometa % [K[?2004ha ggit add rem   task1.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4/documents/repometa[0m[27m[24m[Jhashimn4@Hashims-MBP repometa % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4[0m[27m[24m[Jhashimn4@Hashims-MBP ~ % [K[?2004hccd documents/repo1[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4/documents/repo1[0m[27m[24m[Jhashimn4@Hashims-MBP repo1 % [K[?2004hggit init[?2004l
+Initialized empty Git repository in /Users/hashimn4/Documents/Repo1/.git/
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4/documents/repo1[0m[27m[24m[Jhashimn4@Hashims-MBP repo1 % [K[?2004hggit add date.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4/documents/repo1[0m[27m[24m[Jhashimn4@Hashims-MBP repo1 % [K[?2004hggit add date.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4/documents/repo1[0m[27m[24m[Jhashimn4@Hashims-MBP repo1 % [K[?2004hggit commit -m ""A"d"d"e"d" "t"o"d"a"y"s"" '"s" "d"a"t"e" "i"n" "" t"o" "t"h"e" "f"i"l"e"[?2004l
+[master (root-commit) 0072b82] Added today's date into the file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 date.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4/documents/repo1[0m[27m[24m[Jhashimn4@Hashims-MBP repo1 % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4[0m[27m[24m[Jhashimn4@Hashims-MBP ~ % [K[?2004hccd documents/repometa[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4/documents/repometa[0m[27m[24m[Jhashimn4@Hashims-MBP repometa % [K[?2004hggig  ggit add task1.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4/documents/repometa[0m[27m[24m[Jhashimn4@Hashims-MBP repometa % [K[?2004hggit commit -m ""L"o"g"g"i"n"g" "m"y" "c"o"m"m"a"n"d"s" "f"o"r"t""  "t"h"i"s" "t"a"s" [K[A[79Ck"[?2004l
+[master (root-commit) 5d70b42] Logging my commands for this task
+ 1 file changed, 16 insertions(+)
+ create mode 100644 task1.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hashims-MBP.home/Users/hashimn4/documents/repometa[0m[27m[24m[Jhashimn4@Hashims-MBP repometa % [K[?2004h
